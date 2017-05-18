@@ -1,0 +1,2 @@
+# DoubleDiceGameSimulator
+Simply game simulator
